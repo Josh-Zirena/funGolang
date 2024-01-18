@@ -24,6 +24,5 @@ func evenNumbers(a int, b int) []int {
 		}
 	}
 
-	// fmt.Printf("%v", rangeNums)
 	return rangeNums
 }
